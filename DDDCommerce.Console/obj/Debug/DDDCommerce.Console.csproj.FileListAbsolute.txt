@@ -1,0 +1,33 @@
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Console\obj\Debug\DDDCommerce.Console.csprojResolveAssemblyReference.cache
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Console\obj\Debug\DDDCommerce.Console.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Console\bin\Debug\DDDCommerce.Console.exe.config
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Console\bin\Debug\DDDCommerce.Console.exe
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Console\bin\Debug\DDDCommerce.Console.pdb
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Console\bin\Debug\DDDCommerce.Domain.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Console\bin\Debug\DDDCommerce.Shared.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Console\bin\Debug\DDDCommerce.Domain.pdb
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Console\bin\Debug\DDDCommerce.Domain.dll.config
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Console\bin\Debug\DDDCommerce.Shared.pdb
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Console\bin\Debug\DDDCommerce.Shared.dll.config
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Console\obj\Debug\DDDCommerce.Console.exe
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Console\obj\Debug\DDDCommerce.Console.pdb
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\DDDCommerce.Console.exe.config
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\DDDCommerce.Console.exe
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\DDDCommerce.Console.pdb
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\DDDCommerce.Domain.dll
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\DDDCommerce.Infra.dll
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\DDDCommerce.Shared.dll
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\EntityFramework.dll
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\DDDCommerce.Domain.pdb
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\DDDCommerce.Domain.dll.config
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\DDDCommerce.Infra.pdb
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\DDDCommerce.Infra.dll.config
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\DDDCommerce.Shared.pdb
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\DDDCommerce.Shared.dll.config
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\EntityFramework.xml
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\obj\Debug\DDDCommerce.Console.csprojResolveAssemblyReference.cache
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\obj\Debug\DDDCommerce.Console.csproj.CoreCompileInputs.cache
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\obj\Debug\DDDCommerce.Console.exe
+C:\desenvolvimentos\DDDParte1-repositories\DDDCommerce.Console\obj\Debug\DDDCommerce.Console.pdb
